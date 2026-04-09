@@ -29,9 +29,13 @@ Arduino code is available in `/code` folder
 
 ## 📄 Report
 Full project report is available in `/report`
+## 📷 Project Images
 
-## 📷 Output
-(Add your project images here)
+### 🔧 Setup
+![Setup](images/setup)
+
+### 📊 Output
+![Output](images/output)
 
 ## 🚀 Future Scope
 - Cloud attendance storage
